@@ -1,4 +1,4 @@
-# Portfólio de Estudos e Projetos
+# Portfólio de Estudos
 
 ## Bem-vindo(a) 👋
 🌻 Este repositório serve como um arquivo central para os meus projetos acadêmicos, relatórios de pesquisa e outros materiais de estudo.
